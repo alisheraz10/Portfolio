@@ -1,4 +1,4 @@
-# Siraj Tariq Portfolio
+# Ali Sheraz Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development, 3D visuals, and modern frontend technologies.
 
@@ -49,5 +49,5 @@ It includes dynamic components such as:
 Clone the repository:
 
 ```bash
-git clone https://github.com/sirajtariq/portfolio.git
+git clone https://github.com/alisheraz10/portfolio.git
 cd portfolio
